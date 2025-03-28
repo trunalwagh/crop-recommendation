@@ -1,7 +1,7 @@
-pip install numpy
-pip install matplotlib
-pip install Flask
-pip install seaborn
-pip install scikit-learn
-pip install pandas
+numpy
+matplotlib
+Flask
+seaborn
+scikit-learn
+pandas
 Gunicorn
