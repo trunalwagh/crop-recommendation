@@ -1,0 +1,87 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Patua One', cursive;
+        }
+        
+        header {
+            position: fixed;
+            overflow: auto;
+            background-color: black;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: 0.6s;
+            padding: 40px 100px;
+            z-index: 1000;
+            height: 75px;
+        }
+        
+        header ul {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        header ul li {
+            position: relative;
+            list-style: none;
+        }
+        
+        header ul li a {
+            position: relative;
+            margin: 0 15px;
+            text-decoration: none;
+            color: white;
+            font-weight: 500px;
+            transition: 0.6s;
+        }
+        
+        header a {
+            text-decoration: none;
+            color: white;
+        }
+        
+        header.sticky {
+            position: relative;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 25px;
+            transition: 0.6s;
+            color: black;
+        }
+        
+        header a:hover {
+            color: rgb(14, 223, 49);
+        }
+    </style>
+</head>
+<body>
+        ===================== Navigation Menu===================== 
+        <header>
+            <a href="#" class="sticky">Agriculture Cyber Physical System for Crop Recommendation</a>
+            <ul>
+                <li> <a href="/templates/index.html">Home</a> </li>
+                <li> <a href="./about.html">About Us</a> </li>
+                <li> <a href="./contact.html">Contact Us</a> </li>
+            </ul>
+        </header>
+        <section class="crop">
+            <h1>Crop Recommendation</h1>
+        </section>
+</body>
+</html> -->
